@@ -1,10 +1,10 @@
-Blog Entry # ___						     Date: _______
+Blog Entry # 1						     Date: 10/25/19
 
 
-Today I ….. (Where are you at in the process of your product? See hstatsep.github.io/students/#edp)
+Today I wanted to see what people do when they work with 3D Modeling.
 
-I learned ….  (What are you learning in class that applies directly to your project? How will you use the synthesis practice we did today on your project?)
+I learned the basics of the work 3D Modelers do and what skills they need.
 
-I used ….. (What sources did you use to learn that? Some days this will just be class instruction.)
+I used information I collected from the interenet in order to find information.
 
-A skill that I used was ….. How are you developing in ways that apply outside of your project? See hstatsep.github.io/students/#skills
+A skill that I used was time management. I had to manage my time and balance it between researching and writing.
